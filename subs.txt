@@ -1,3 +1,9 @@
 https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/merged_sub.txt
 https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/splitted/mixed
 https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt
+https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/super-sub.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt
+https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/main/Configs/VLESS-DukeMehdi-Configs.txt
+https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/main/Configs/VMESS-DukeMehdi-Configs.txt
+https://raw.githubusercontent.com/Kolandone/v2raycollector/main/config.txt
+https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt
