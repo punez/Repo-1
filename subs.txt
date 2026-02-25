@@ -1,1 +1,3 @@
-subs.txt
+https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/merged_sub.txt
+https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/splitted/mixed
+https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt
